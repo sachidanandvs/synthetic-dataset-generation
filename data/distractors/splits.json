@@ -1,0 +1,14 @@
+{
+    "test": [
+        
+    ],
+    "train": [
+        "misc/clock-g204ee03ae_1920.png",
+        "misc/kerosene-lamp-gde06bdaab_1920.png",
+        "misc/teddy-bear-g08d67e00b_1920.png",
+        "misc/chair-g1b12b7580_1920.png"
+    ],
+    "validation": [
+        
+    ]
+}
